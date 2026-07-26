@@ -973,7 +973,7 @@ a.contact-item-value:hover {
   border-color: var(--light-400);
 }
 
-.dark .dot {
+.dark .dot:not(.fill) {
   background: var(--light-400);
 }
 
